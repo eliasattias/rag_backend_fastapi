@@ -67,7 +67,7 @@ User
 ### 1. Clone this repo
 ```bash
 git clone https://github.com/eliasattias/rag_backend_fastapi.git
-cd rag-pipeline
+cd rag_backend_fastapi
 ```
 
 ### 2. Set up your environment
